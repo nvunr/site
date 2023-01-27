@@ -34,5 +34,6 @@ h1 {
 }
 
 .story {
+    float: left;
     text-align: center;
 }
